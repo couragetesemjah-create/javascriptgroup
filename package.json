@@ -1,0 +1,16 @@
+{
+  "name": "smartride",
+  "version": "1.0.0",
+  "description": "SmartRide - Intelligent Transportation Recommendation System",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "author": "Group 11",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
